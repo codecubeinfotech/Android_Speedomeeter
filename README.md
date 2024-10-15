@@ -22,3 +22,4 @@ dependencies {
 	        implementation 'com.github.codecubeinfotech:Android_Speedomeeter:Tag'
 	}
 ```
+[![](https://jitpack.io/v/codecubeinfotech/Android_Speedomeeter.svg)](https://jitpack.io/#codecubeinfotech/Android_Speedomeeter)
